@@ -92,10 +92,16 @@ The **Invoice Total Calculator** is a web-based application that enables users t
 - **Multi-Currency Support**: Enable calculations in different currencies.
 - **Responsive Enhancements**: Further optimize the layout for mobile devices.
 
+## 🎭 Screenshots  
+
+| Invoice Total Calculator |  
+|--------------|  
+| ![Invoice Total Calculator](images/github/invoice-total-calculator.png) |  
+
 ## 📜 License
 
 This project was developed for educational purposes as part of a **college assignment**.
 
 ---
 
-💼 **Author:** Juan Jacobo Florez Monroy | 🚀 Portfolio: [Portfolio Website or GitHub]
+💼 **Author:** Juan Jacobo Florez Monroy | 🚀 **GitHub**: [GitHub](https://github.com/jjacoboflorez95)  
