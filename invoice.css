@@ -1,0 +1,83 @@
+body {
+	/*font-family: Arial, Helvetica, sans-serif;*/
+	font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+		"Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+	background-color: white;
+	background-image: url("images/background_3.jpg");
+	background-size: cover;
+	margin: 0 auto;
+	/*width: 500px;*/
+	/*sborder: 3px solid cornflowerblue;*/
+	padding: 0 2em 1em;
+}
+main {
+	margin: auto;
+	margin-top: 50px;
+	width: 70%;
+	padding: 30px 0px;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	background-color: rgba(242, 236, 219, 0.593);
+	border: 1px solid rgba(254, 239, 202, 0.593);
+	border-radius: 5px;
+}
+h1 {
+	color: rgb(13, 52, 123);
+	color: rgb(18, 124, 33);
+	margin-bottom: 70px;
+	font-size: 210%;
+}
+div,
+hr {
+	margin-bottom: 1em;
+}
+label {
+	display: inline-block;
+	width: 9em;
+}
+input,
+select {
+	margin-left: 1em;
+	margin-right: 0.5em;
+	padding: 2px;
+}
+span {
+	color: red;
+}
+
+input,
+select,
+label {
+	font-size: 120%;
+}
+.div_form {
+	width: 70%;
+	display: flex;
+}
+.div_form input {
+	flex-grow: 1;
+}
+.input_disabled {
+	color: rgb(34, 34, 34);
+}
+#div_form_buttons {
+	margin-top: 30px;
+	margin-bottom: 60px;
+}
+
+#div_form_buttons input {
+	color: white;
+	border: 1px solid rgb(28, 126, 59);
+	background-color: rgba(13, 123, 24, 0.912);
+	border-radius: 10px;
+	padding: 10px 20px;
+	letter-spacing: 1px;
+	font-size: 130%;
+}
+#div_form_buttons input:hover {
+	background-color: rgba(11, 100, 20, 0.988);
+}
+small {
+	font-size: 85%;
+}
